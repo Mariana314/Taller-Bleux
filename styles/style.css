@@ -367,6 +367,10 @@ footer{
     padding: 20px;
   }
 
+  .container1{
+    width: 480px;
+  }
+
   .container img {
     height: 55%;
     padding-top: 100px;
@@ -421,7 +425,8 @@ footer{
   footer {
     flex-direction: column;
     height: auto;
-    padding: 20px;
+    padding: 0px;
+    width: 480px;
   }
 
   .footer-p {
